@@ -16,6 +16,4 @@ Valor por hora
 Estos datos deben ser enviados a Elixir, que calculará el salario neto así:
 Si trabaja más de 160 horas, las horas extra se pagan al 125%.
 El salario neto se calcula sumando salario base + horas extra.
-
-
 Elixir debe retornar un mensaje con el salario neto del empleado, y Java debe mostrarlo con un JOptionPane.
